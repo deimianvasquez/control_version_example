@@ -20,6 +20,11 @@ nav ul{
     gap: 10px;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
+
 footer{
     background-color: black;
     color: white;
